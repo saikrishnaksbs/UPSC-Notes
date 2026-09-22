@@ -1,0 +1,9 @@
+# Panchayat - Notes Index
+
+| # | Sub-Topic Note | Source URL |
+| :--- | :--- | :--- |
+| 1 | [73rd Constitutional Amendment Act,1992](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Polity/23-panchayat/01-73rd-constitutional-amendment-act-1992.md) | [73rd Constitutional Amendment Act,1992](https://compass.rauias.com/polity/73rd-constitutional-amendment-act-1992/) |
+| 2 | [Critical Analysis of Panchayati Raj Institutions](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Polity/23-panchayat/02-critical-analysis-of-panchayati-raj-institutions.md) | [Critical Analysis of Panchayati Raj Institutions](https://compass.rauias.com/polity/critical-analysis-panchayati-raj-institutions/) |
+| 3 | [Role & Challenges of Women in Panchayati Raj Institutions](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Polity/23-panchayat/03-role-challenges-of-women-in-panchayati-raj-institutions.md) | [Role & Challenges of Women in Panchayati Raj Institutions](https://compass.rauias.com/polity/role-challenges-women-panchayati-raj-institutions/) |
+| 4 | [Challenges of Panchayati Raj Institutions](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Polity/23-panchayat/04-challenges-of-panchayati-raj-institutions.md) | [Challenges of Panchayati Raj Institutions](https://compass.rauias.com/polity/challenges-panchayati-raj-institutions/) |
+| 5 | [Suggested Reforms of Panchayati Raj Institutions](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Polity/23-panchayat/05-suggested-reforms-of-panchayati-raj-institutions.md) | [Suggested Reforms of Panchayati Raj Institutions](https://compass.rauias.com/polity/suggested-reforms-panchayati-raj-institutions/) |

@@ -1,0 +1,14 @@
+# Post Gupta and Early Medieval India - Notes Index
+
+| # | Sub-Topic Note | Source URL |
+| :--- | :--- | :--- |
+| 1 | [Imperial Chola](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ancient_history/07-Post-Gupta-and-Early-Medieval-India/01-imperial-chola.md) | [Imperial Chola](https://compass.rauias.com/ancient-history/imperial-chola/) |
+| 2 | [Early Medieval South India](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ancient_history/07-Post-Gupta-and-Early-Medieval-India/02-early-medieval-south-india.md) | [Early Medieval South India](https://compass.rauias.com/ancient-history/early-medieval-south-india/) |
+| 3 | [Economy of Imperial Chola](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ancient_history/07-Post-Gupta-and-Early-Medieval-India/03-economy-of-imperial-chola.md) | [Economy of Imperial Chola](https://compass.rauias.com/ancient-history/economy-imperial-chola/) |
+| 4 | [Architecture of Imperial Chola](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ancient_history/07-Post-Gupta-and-Early-Medieval-India/04-architecture-of-imperial-chola.md) | [Architecture of Imperial Chola](https://compass.rauias.com/ancient-history/architecture-imperial-chola/) |
+| 5 | [Early Medieval Society](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ancient_history/07-Post-Gupta-and-Early-Medieval-India/05-early-medieval-society.md) | [Early Medieval Society](https://compass.rauias.com/ancient-history/early-medieval-society/) |
+| 6 | [Society & Economy In Post-Gupta Period](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ancient_history/07-Post-Gupta-and-Early-Medieval-India/06-society-economy-in-post-gupta-period.md) | [Society & Economy In Post-Gupta Period](https://compass.rauias.com/ancient-history/society-economy-post-gupta-period/) |
+| 7 | [Rajput Kingdoms](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ancient_history/07-Post-Gupta-and-Early-Medieval-India/07-rajput-kingdoms.md) | [Rajput Kingdoms](https://compass.rauias.com/ancient-history/rajput-kingdoms/) |
+| 8 | [Religion During Chola Era](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ancient_history/07-Post-Gupta-and-Early-Medieval-India/08-religion-during-chola-era.md) | [Religion During Chola Era](https://compass.rauias.com/ancient-history/religion-during-chola-era/) |
+| 9 | [Literature of Imperial Chola](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ancient_history/07-Post-Gupta-and-Early-Medieval-India/09-literature-of-imperial-chola.md) | [Literature of Imperial Chola](https://compass.rauias.com/ancient-history/literature-imperial-chola/) |
+| 10 | [Dynasties in North India](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ancient_history/07-Post-Gupta-and-Early-Medieval-India/10-dynasties-in-north-india.md) | [Dynasties in North India](https://compass.rauias.com/ancient-history/dynasties-north-india/) |

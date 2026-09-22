@@ -1,0 +1,12 @@
+# Judiciary (Supreme Court) - Notes Index
+
+| # | Sub-Topic Note | Source URL |
+| :--- | :--- | :--- |
+| 1 | [Introduction of Judiciary](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Polity/20-judiciary-supreme-court/01-introduction-of-judiciary.md) | [Introduction of Judiciary](https://compass.rauias.com/polity/introduction-of-judiciary/) |
+| 2 | [Supreme court of India](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Polity/20-judiciary-supreme-court/02-supreme-court-of-india.md) | [Supreme court of India](https://compass.rauias.com/polity/supreme-court/) |
+| 3 | [Jurisdiction of Supreme Court](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Polity/20-judiciary-supreme-court/03-jurisdiction-of-supreme-court.md) | [Jurisdiction of Supreme Court](https://compass.rauias.com/polity/jurisdiction-of-supreme-court/) |
+| 4 | [Judicial Review, Activism & Overreach](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Polity/20-judiciary-supreme-court/04-judicial-review-activism-overreach.md) | [Judicial Review, Activism & Overreach](https://compass.rauias.com/polity/judicial-review-activism-overreach/) |
+| 5 | [All India Judicial Service (AIJS)](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Polity/20-judiciary-supreme-court/05-all-india-judicial-service-aijs.md) | [All India Judicial Service (AIJS)](https://compass.rauias.com/polity/all-india-judicial-service-aijs/) |
+| 6 | [Alternative Dispute Resolution Mechanism](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Polity/20-judiciary-supreme-court/06-alternative-dispute-resolution-mechanism.md) | [Alternative Dispute Resolution Mechanism](https://compass.rauias.com/polity/alternative-dispute-resolution-mechanism/) |
+| 7 | [Lok Adalat](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Polity/20-judiciary-supreme-court/07-lok-adalat.md) | [Lok Adalat](https://compass.rauias.com/polity/lok-adalat/) |
+| 8 | [Comparison with Judiciary in USA and UK](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Polity/20-judiciary-supreme-court/08-comparison-with-judiciary-in-usa-and-uk.md) | [Comparison with Judiciary in USA and UK](https://compass.rauias.com/polity/comparison-judiciary-usa-uk/) |

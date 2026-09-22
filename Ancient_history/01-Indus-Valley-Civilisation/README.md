@@ -1,0 +1,14 @@
+# Indus Valley Civilisation - Notes Index
+
+| # | Sub-Topic Note | Source URL |
+| :--- | :--- | :--- |
+| 1 | [Major IVC Site](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ancient_history/01-Indus-Valley-Civilisation/01-major-ivc-site.md) | [Major IVC Site](https://compass.rauias.com/ancient-history/major-indus-valley-civilisation-sites/) |
+| 2 | [Phases of Indus Valley Civilisation](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ancient_history/01-Indus-Valley-Civilisation/02-phases-of-indus-valley-civilisation.md) | [Phases of Indus Valley Civilisation](https://compass.rauias.com/phases-indus-valley-civilisation/) |
+| 3 | [Geographical Setting of Harappa/Indus Valley Civilisation](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ancient_history/01-Indus-Valley-Civilisation/03-geographical-setting-of-harappa-indus-valley-civilisation.md) | [Geographical Setting of Harappa/Indus Valley Civilisation](https://compass.rauias.com/ancient-history/geographical-setting-harappa-indus-valley-civilisation/) |
+| 4 | [Economy of IVC](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ancient_history/01-Indus-Valley-Civilisation/04-economy-of-ivc.md) | [Economy of IVC](https://compass.rauias.com/ancient-history/economy-indus-valley-civilisation/) |
+| 5 | [Society of Harappans](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ancient_history/01-Indus-Valley-Civilisation/05-society-of-harappans.md) | [Society of Harappans](https://compass.rauias.com/ancient-history/society-harappans/) |
+| 6 | [Town Planning](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ancient_history/01-Indus-Valley-Civilisation/06-town-planning.md) | [Town Planning](https://compass.rauias.com/ancient-history/town-planning-indus-valley-civilisation/) |
+| 7 | [Crafts of IVC](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ancient_history/01-Indus-Valley-Civilisation/07-crafts-of-ivc.md) | [Crafts of IVC](https://compass.rauias.com/ancient-history/crafts-harappa-civilisation/) |
+| 8 | [Important IVC Sites in India](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ancient_history/01-Indus-Valley-Civilisation/08-important-ivc-sites-in-india.md) | [Important IVC Sites in India](https://compass.rauias.com/ancient-history/indus-valley-civilisation-sites-india/) |
+| 9 | [Harappan Script](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ancient_history/01-Indus-Valley-Civilisation/09-harappan-script.md) | [Harappan Script](https://compass.rauias.com/ancient-history/harappan-script/) |
+| 10 | [Decline of Indus Valley Civilization](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ancient_history/01-Indus-Valley-Civilisation/10-decline-of-indus-valley-civilization.md) | [Decline of Indus Valley Civilization](https://compass.rauias.com/ancient-history/decline-indus-valley-civilisation/) |

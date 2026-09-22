@@ -1,0 +1,17 @@
+# Population Issues - Notes Index
+
+| # | Sub-Topic Note | Source URL |
+| :--- | :--- | :--- |
+| 1 | [Population and census](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/03-population-issues/01-population-and-census.md) | [Population and census](https://compass.rauias.com/indian-society/population-census/) |
+| 2 | [Theories of demographic transition](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/03-population-issues/02-theories-of-demographic-transition.md) | [Theories of demographic transition](https://compass.rauias.com/indian-society/theories-demographic-transition/) |
+| 3 | [Population composition](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/03-population-issues/03-population-composition.md) | [Population composition](https://compass.rauias.com/indian-society/population-composition/) |
+| 4 | [Demographic dividend](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/03-population-issues/04-demographic-dividend.md) | [Demographic dividend](https://compass.rauias.com/indian-society/demographic-dividend/) |
+| 5 | [Population pyramid](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/03-population-issues/05-population-pyramid.md) | [Population pyramid](https://compass.rauias.com/indian-society/population-pyramids/) |
+| 6 | [Factors affecting population growth](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/03-population-issues/06-factors-affecting-population-growth.md) | [Factors affecting population growth](https://compass.rauias.com/indian-society/factors-affecting-population-growth/) |
+| 7 | [Problem of Over-Population](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/03-population-issues/07-problem-of-over-population.md) | [Problem of Over-Population](https://compass.rauias.com/indian-society/problem-over-population/) |
+| 8 | [Imbalanced Sex Ratio in India](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/03-population-issues/08-imbalanced-sex-ratio-in-india.md) | [Imbalanced Sex Ratio in India](https://compass.rauias.com/indian-society/imbalanced-sex-ratio-india/) |
+| 9 | [Population policy in India](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/03-population-issues/09-population-policy-in-india.md) | [Population policy in India](https://compass.rauias.com/indian-society/population-policy-india/) |
+| 10 | [Appraisal of National Population Policy 2000](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/03-population-issues/10-appraisal-of-national-population-policy-2000.md) | [Appraisal of National Population Policy 2000](https://compass.rauias.com/indian-society/appraisal-national-population-policy-2000/) |
+| 11 | [Delay in conducting a census](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/03-population-issues/11-delay-in-conducting-a-census.md) | [Delay in conducting a census](https://compass.rauias.com/indian-society/delay-conducting-census/) |
+| 12 | [Caste-based census](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/03-population-issues/12-caste-based-census.md) | [Caste-based census](https://compass.rauias.com/indian-society/caste-based-census/) |
+| 13 | [Two-child policy](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/03-population-issues/13-two-child-policy.md) | [Two-child policy](https://compass.rauias.com/indian-society/two-child-policy/) |

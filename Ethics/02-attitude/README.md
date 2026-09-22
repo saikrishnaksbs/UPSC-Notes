@@ -1,0 +1,19 @@
+# Attitude - Notes Index
+
+| # | Sub-Topic Note | Source URL |
+| :--- | :--- | :--- |
+| 1 | [Meaning, Structure & Dimension of Attitude](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ethics/02-attitude/01-meaning-structure-dimension-of-attitude.md) | [Meaning, Structure & Dimension of Attitude](https://compass.rauias.com/ethics/meaning-structure-dimension-attitude/) |
+| 2 | [Types & Nature of Attitude](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ethics/02-attitude/02-types-nature-of-attitude.md) | [Types & Nature of Attitude](https://compass.rauias.com/ethics/types-nature-attitude/) |
+| 3 | [Relation of Attitude & Behaviour](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ethics/02-attitude/03-relation-of-attitude-behaviour.md) | [Relation of Attitude & Behaviour](https://compass.rauias.com/ethics/relation-attitude-behaviour/) |
+| 4 | [Relation of Attitude and Values](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ethics/02-attitude/04-relation-of-attitude-and-values.md) | [Relation of Attitude and Values](https://compass.rauias.com/ethics/relation-attitude-values/) |
+| 5 | [Function of Attitude](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ethics/02-attitude/05-function-of-attitude.md) | [Function of Attitude](https://compass.rauias.com/ethics/function-attitude/) |
+| 6 | [Development of Attitude](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ethics/02-attitude/06-development-of-attitude.md) | [Development of Attitude](https://compass.rauias.com/ethics/development-attitude/) |
+| 7 | [Moral & Political Attitudes](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ethics/02-attitude/07-moral-political-attitudes.md) | [Moral & Political Attitudes](https://compass.rauias.com/ethics/moral-political-attitudes/) |
+| 8 | [Methods to Changing the Attitude](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ethics/02-attitude/08-methods-to-changing-the-attitude.md) | [Methods to Changing the Attitude](https://compass.rauias.com/ethics/methods-changing-attitude/) |
+| 9 | [Social Influence](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ethics/02-attitude/09-social-influence.md) | [Social Influence](https://compass.rauias.com/ethics/social-influence/) |
+| 10 | [Social Persuasion](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ethics/02-attitude/10-social-persuasion.md) | [Social Persuasion](https://compass.rauias.com/ethics/social-persuasion/) |
+| 11 | [Nudge: A tool of Social Influence](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ethics/02-attitude/11-nudge-a-tool-of-social-influence.md) | [Nudge: A tool of Social Influence](https://compass.rauias.com/ethics/nudge-tool-social-influence/) |
+| 12 | [Elements or Components of Persuasion](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ethics/02-attitude/12-elements-or-components-of-persuasion.md) | [Elements or Components of Persuasion](https://compass.rauias.com/ethics/elements-components-opersuasion/) |
+| 13 | [Process of Persuasion](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ethics/02-attitude/13-process-of-persuasion.md) | [Process of Persuasion](https://compass.rauias.com/ethics/process-persuasion/) |
+| 14 | [Technique of Persuasion](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ethics/02-attitude/14-technique-of-persuasion.md) | [Technique of Persuasion](https://compass.rauias.com/ethics/technique-persuasion/) |
+| 15 | [Persuasion Versus Manipulation](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ethics/02-attitude/15-persuasion-versus-manipulation.md) | [Persuasion Versus Manipulation](https://compass.rauias.com/ethics/persuasion-manipulation/) |

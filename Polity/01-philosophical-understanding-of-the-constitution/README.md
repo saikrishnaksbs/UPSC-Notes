@@ -1,0 +1,8 @@
+# Philosophical Understanding of the Constitution - Notes Index
+
+| # | Sub-Topic Note | Source URL |
+| :--- | :--- | :--- |
+| 1 | [Constitution and its purpose](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Polity/01-philosophical-understanding-of-the-constitution/01-constitution-and-its-purpose.md) | [Constitution and its purpose](https://compass.rauias.com/polity/constitution-purpose/) |
+| 2 | [Understanding the Constitution](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Polity/01-philosophical-understanding-of-the-constitution/02-understanding-the-constitution.md) | [Understanding the Constitution](https://compass.rauias.com/polity/understanding-the-constitution/) |
+| 3 | [Understanding Constitutionalism](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Polity/01-philosophical-understanding-of-the-constitution/03-understanding-constitutionalism.md) | [Understanding Constitutionalism](https://compass.rauias.com/polity/understanding-constitutionalism/) |
+| 4 | [Difference between Constitutionalism and Constitutional Morality](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Polity/01-philosophical-understanding-of-the-constitution/04-difference-between-constitutionalism-and-constitutional-morality.md) | [Difference between Constitutionalism and Constitutional Morality](https://compass.rauias.com/polity/difference-between-constitutionalism-and-constitutional-morality/) |

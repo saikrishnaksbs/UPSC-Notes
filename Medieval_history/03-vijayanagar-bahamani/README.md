@@ -1,0 +1,12 @@
+# Vijayanagar & Bahamani - Notes Index
+
+| # | Sub-Topic Note | Source URL |
+| :--- | :--- | :--- |
+| 1 | [Vijayanagar Empire](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Medieval_history/03-vijayanagar-bahamani/01-vijayanagar-empire.md) | [Vijayanagar Empire](https://compass.rauias.com/medieval-history/vijayanagar-empire/) |
+| 2 | [Administration of Vijayanagar Empire](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Medieval_history/03-vijayanagar-bahamani/02-administration-of-vijayanagar-empire.md) | [Administration of Vijayanagar Empire](https://compass.rauias.com/medieval-history/administration-vijayanagar-empire/) |
+| 3 | [Socio-Economic Conditions During Vijayanagar Empire](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Medieval_history/03-vijayanagar-bahamani/03-socio-economic-conditions-during-vijayanagar-empire.md) | [Socio-Economic Conditions During Vijayanagar Empire](https://compass.rauias.com/medieval-history/socio-economic-conditions-during-vijayanagar-empire/) |
+| 4 | [Cultural Contributions of Vijayanagar Empire](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Medieval_history/03-vijayanagar-bahamani/04-cultural-contributions-of-vijayanagar-empire.md) | [Cultural Contributions of Vijayanagar Empire](https://compass.rauias.com/medieval-history/cultural-contributions-vijayanagar-empire/) |
+| 5 | [Architecture of Vijayanagar Empire](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Medieval_history/03-vijayanagar-bahamani/05-architecture-of-vijayanagar-empire.md) | [Architecture of Vijayanagar Empire](https://compass.rauias.com/medieval-history/architecture-vijayanagar-empire/) |
+| 6 | [Bahamini Kingdom](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Medieval_history/03-vijayanagar-bahamani/06-bahamini-kingdom.md) | [Bahamini Kingdom](https://compass.rauias.com/medieval-history/bahamini-kingdom/) |
+| 7 | [Deccani Kingdom](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Medieval_history/03-vijayanagar-bahamani/07-deccani-kingdom.md) | [Deccani Kingdom](https://compass.rauias.com/medieval-history/deccani-kingdom/) |
+| 8 | [Socio-Cultural Conditions During Bahamini Kingdom](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Medieval_history/03-vijayanagar-bahamani/08-socio-cultural-conditions-during-bahamini-kingdom.md) | [Socio-Cultural Conditions During Bahamini Kingdom](https://compass.rauias.com/medieval-history/socio-cultural-conditions-during-bahamini-kingdom/) |

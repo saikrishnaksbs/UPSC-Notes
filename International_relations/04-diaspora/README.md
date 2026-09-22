@@ -1,0 +1,12 @@
+# Diaspora - Notes Index
+
+| # | Sub-Topic Note | Source URL |
+| :--- | :--- | :--- |
+| 1 | [NEW & OLD DIASPORA](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/International_relations/04-diaspora/01-new-old-diaspora.md) | [NEW & OLD DIASPORA](https://compass.rauias.com/international-relations/regional-diaspora/) |
+| 2 | [Significance, Challenges and Suggestions for India’s Diaspora](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/International_relations/04-diaspora/02-significance-challenges-and-suggestions-for-india-s-diaspora.md) | [Significance, Challenges and Suggestions for India’s Diaspora](https://compass.rauias.com/international-relations/significance-challenges-suggestions-indias-diaspora/) |
+| 3 | [Indian Diaspora In Caribbean](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/International_relations/04-diaspora/03-indian-diaspora-in-caribbean.md) | [Indian Diaspora In Caribbean](https://compass.rauias.com/international-relations/diaspora-in-caribbean/) |
+| 4 | [Indian Diaspora In North America](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/International_relations/04-diaspora/04-indian-diaspora-in-north-america.md) | [Indian Diaspora In North America](https://compass.rauias.com/international-relations/diaspora-in-north-america/) |
+| 5 | [Indian Diaspora In Africa](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/International_relations/04-diaspora/05-indian-diaspora-in-africa.md) | [Indian Diaspora In Africa](https://compass.rauias.com/international-relations/diaspora-in-africa/) |
+| 6 | [Indian Diaspora In Europe](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/International_relations/04-diaspora/06-indian-diaspora-in-europe.md) | [Indian Diaspora In Europe](https://compass.rauias.com/international-relations/diaspora-in-europe/) |
+| 7 | [Indian Diaspora In Southeast Asia](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/International_relations/04-diaspora/07-indian-diaspora-in-southeast-asia.md) | [Indian Diaspora In Southeast Asia](https://compass.rauias.com/international-relations/diaspora-in-southeast-asia/) |
+| 8 | [Indian Diaspora In Asia-Pacific](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/International_relations/04-diaspora/08-indian-diaspora-in-asia-pacific.md) | [Indian Diaspora In Asia-Pacific](https://compass.rauias.com/international-relations/diaspora-in-asia-pacific/) |

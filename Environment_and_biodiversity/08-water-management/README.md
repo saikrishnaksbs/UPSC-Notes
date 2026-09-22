@@ -1,0 +1,12 @@
+# Water Management - Notes Index
+
+| # | Sub-Topic Note | Source URL |
+| :--- | :--- | :--- |
+| 1 | [Water Stress In India](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Environment_and_biodiversity/08-water-management/01-water-stress-in-india.md) | [Water Stress In India](https://compass.rauias.com/environment-biodiversity/water-stress-india/) |
+| 2 | [Ground Water Contamination](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Environment_and_biodiversity/08-water-management/02-ground-water-contamination.md) | [Ground Water Contamination](https://compass.rauias.com/environment-biodiversity/groundwater-contamination/) |
+| 3 | [Inter-linking Of Rivers](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Environment_and_biodiversity/08-water-management/03-inter-linking-of-rivers.md) | [Inter-linking Of Rivers](https://compass.rauias.com/environment-biodiversity/inter-linking-rivers/) |
+| 4 | [Multipurpose Dams](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Environment_and_biodiversity/08-water-management/04-multipurpose-dams.md) | [Multipurpose Dams](https://compass.rauias.com/environment-biodiversity/multipurpose-dams/) |
+| 5 | [Draft National Water Policy](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Environment_and_biodiversity/08-water-management/05-draft-national-water-policy.md) | [Draft National Water Policy](https://compass.rauias.com/environment-biodiversity/draft-national-water-policy/) |
+| 6 | [Jal Shakti Abhiyaan: Catch The Rain](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Environment_and_biodiversity/08-water-management/06-jal-shakti-abhiyaan-catch-the-rain.md) | [Jal Shakti Abhiyaan: Catch The Rain](https://compass.rauias.com/environment-biodiversity/jal-shakti-abhiyan/) |
+| 7 | [Jal Jeevan Mission](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Environment_and_biodiversity/08-water-management/07-jal-jeevan-mission.md) | [Jal Jeevan Mission](https://compass.rauias.com/environment-biodiversity/jal-jeevan-mission-jjm/) |
+| 8 | [Watershed Development](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Environment_and_biodiversity/08-water-management/08-watershed-development.md) | [Watershed Development](https://compass.rauias.com/environment-biodiversity/watershed-development/) |

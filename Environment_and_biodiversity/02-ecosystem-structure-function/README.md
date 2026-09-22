@@ -1,0 +1,12 @@
+# Ecosystem- Structure & Function - Notes Index
+
+| # | Sub-Topic Note | Source URL |
+| :--- | :--- | :--- |
+| 1 | [Types of Ecosystem](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Environment_and_biodiversity/02-ecosystem-structure-function/01-types-of-ecosystem.md) | [Types of Ecosystem](https://compass.rauias.com/environment-biodiversity/types-ecosystem/) |
+| 2 | [Components of Ecosystem](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Environment_and_biodiversity/02-ecosystem-structure-function/02-components-of-ecosystem.md) | [Components of Ecosystem](https://compass.rauias.com/environment-biodiversity/components-ecosystem/) |
+| 3 | [Interaction of Biotic & Abiotic Components](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Environment_and_biodiversity/02-ecosystem-structure-function/03-interaction-of-biotic-abiotic-components.md) | [Interaction of Biotic & Abiotic Components](https://compass.rauias.com/environment-biodiversity/interaction-biotic-abiotic-components/) |
+| 4 | [Decomposition ](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Environment_and_biodiversity/02-ecosystem-structure-function/04-decomposition.md) | [Decomposition ](https://compass.rauias.com/environment-biodiversity/decomposition/) |
+| 5 | [Energy Flow](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Environment_and_biodiversity/02-ecosystem-structure-function/05-energy-flow.md) | [Energy Flow](https://compass.rauias.com/environment-biodiversity/energy-flow/) |
+| 6 | [Ecological Pyramid](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Environment_and_biodiversity/02-ecosystem-structure-function/06-ecological-pyramid.md) | [Ecological Pyramid](https://compass.rauias.com/environment-biodiversity/ecological-pyramids/) |
+| 7 | [Bio-Geochemical Cycle](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Environment_and_biodiversity/02-ecosystem-structure-function/07-bio-geochemical-cycle.md) | [Bio-Geochemical Cycle](https://compass.rauias.com/environment-biodiversity/bio-geochemical-cycle/) |
+| 8 | [Ecological Succession](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Environment_and_biodiversity/02-ecosystem-structure-function/08-ecological-succession.md) | [Ecological Succession](https://compass.rauias.com/environment-biodiversity/ecological-succession/) |

@@ -1,0 +1,11 @@
+# Socio-Religious Reforms - Notes Index
+
+| # | Sub-Topic Note | Source URL |
+| :--- | :--- | :--- |
+| 1 | [Introduction of Socio Religious Reform Movements](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Modern_history/02-socio-religious-reforms/01-introduction-of-socio-religious-reform-movements.md) | [Introduction of Socio Religious Reform Movements](https://compass.rauias.com/modern-history/introduction-of-socio-religious-reform-movements/) |
+| 2 | [Characteristics, Significance & Limitations of Socio Religious Reform Movements](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Modern_history/02-socio-religious-reforms/02-characteristics-significance-limitations-of-socio-religious-reform-movements.md) | [Characteristics, Significance & Limitations of Socio Religious Reform Movements](https://compass.rauias.com/modern-history/characteristics-significance-limitations-socio-religious-reform-movements/) |
+| 3 | [List of Important Socio Religious Reform Movements & Key Features](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Modern_history/02-socio-religious-reforms/03-list-of-important-socio-religious-reform-movements-key-features.md) | [List of Important Socio Religious Reform Movements & Key Features](https://compass.rauias.com/modern-history/list-important-socio-religious-reform-movements-features/) |
+| 4 | [Raja Ram Mohan Roy](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Modern_history/02-socio-religious-reforms/04-raja-ram-mohan-roy.md) | [Raja Ram Mohan Roy](https://compass.rauias.com/modern-history/raja-ram-mohan-roy/) |
+| 5 | [Gurudwara Reform Movement](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Modern_history/02-socio-religious-reforms/05-gurudwara-reform-movement.md) | [Gurudwara Reform Movement](https://compass.rauias.com/modern-history/gurudwara-reform-movement/) |
+| 6 | [Shri Narayana Guru](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Modern_history/02-socio-religious-reforms/06-shri-narayana-guru.md) | [Shri Narayana Guru](https://compass.rauias.com/modern-history/shri-narayana-guru/) |
+| 7 | [Sir Syed Ahmad Khan](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Modern_history/02-socio-religious-reforms/07-sir-syed-ahmad-khan.md) | [Sir Syed Ahmad Khan](https://compass.rauias.com/modern-history/sir-syed-ahmad-khan/) |

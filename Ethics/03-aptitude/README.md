@@ -1,0 +1,20 @@
+# Aptitude - Notes Index
+
+| # | Sub-Topic Note | Source URL |
+| :--- | :--- | :--- |
+| 1 | [Meaning and Types of Aptitude](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ethics/03-aptitude/01-meaning-and-types-of-aptitude.md) | [Meaning and Types of Aptitude](https://compass.rauias.com/ethics/meaning-types-aptitude/) |
+| 2 | [Attitude Versus Aptitude](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ethics/03-aptitude/02-attitude-versus-aptitude.md) | [Attitude Versus Aptitude](https://compass.rauias.com/ethics/attitude-aptitude/) |
+| 3 | [Importance of Identifying Your Aptitude](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ethics/03-aptitude/03-importance-of-identifying-your-aptitude.md) | [Importance of Identifying Your Aptitude](https://compass.rauias.com/ethics/importance-identifying-your-aptitude/) |
+| 4 | [Aptitude for Civil Services](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ethics/03-aptitude/04-aptitude-for-civil-services.md) | [Aptitude for Civil Services](https://compass.rauias.com/ethics/aptitude-civil-services/) |
+| 5 | [Identification and Realisation of Aptitude](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ethics/03-aptitude/05-identification-and-realisation-of-aptitude.md) | [Identification and Realisation of Aptitude](https://compass.rauias.com/ethics/identification-realisation-aptitude/) |
+| 6 | [Relation between Aptitude and the other Qualities](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ethics/03-aptitude/06-relation-between-aptitude-and-the-other-qualities.md) | [Relation between Aptitude and the other Qualities](https://compass.rauias.com/ethics/relation-between-aptitude-other-qualities/) |
+| 7 | [Foundational Values of Civil Services](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ethics/03-aptitude/07-foundational-values-of-civil-services.md) | [Foundational Values of Civil Services](https://compass.rauias.com/ethics/foundational-values-of-civil-services/) |
+| 8 | [Objectivity](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ethics/03-aptitude/08-objectivity.md) | [Objectivity](https://compass.rauias.com/ethics/objectivity/) |
+| 9 | [Empathy and Compassion Towards the Weaker Section](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ethics/03-aptitude/09-empathy-and-compassion-towards-the-weaker-section.md) | [Empathy and Compassion Towards the Weaker Section](https://compass.rauias.com/ethics/empathy-compassion-towards-weaker-section/) |
+| 10 | [Tolerance](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ethics/03-aptitude/10-tolerance.md) | [Tolerance](https://compass.rauias.com/ethics/tolerance/) |
+| 11 | [Integrity](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ethics/03-aptitude/11-integrity.md) | [Integrity](https://compass.rauias.com/ethics/integrity/) |
+| 12 | [Dedication to Public Service](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ethics/03-aptitude/12-dedication-to-public-service.md) | [Dedication to Public Service](https://compass.rauias.com/ethics/dedication-public-service/) |
+| 13 | [Impartiality](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ethics/03-aptitude/13-impartiality.md) | [Impartiality](https://compass.rauias.com/ethics/impartiality/) |
+| 14 | [Non-Partisanship](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ethics/03-aptitude/14-non-partisanship.md) | [Non-Partisanship](https://compass.rauias.com/ethics/non-partisanship/) |
+| 15 | [Civil Services Neutrality](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ethics/03-aptitude/15-civil-services-neutrality.md) | [Civil Services Neutrality](https://compass.rauias.com/ethics/civil-services-neutrality/) |
+| 16 | [Accountability and Responsibility](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ethics/03-aptitude/16-accountability-and-responsibility.md) | [Accountability and Responsibility](https://compass.rauias.com/ethics/accountability-responsibility/) |

@@ -1,0 +1,17 @@
+# Sufi & Bhakti Movement - Notes Index
+
+| # | Sub-Topic Note | Source URL |
+| :--- | :--- | :--- |
+| 1 | [Bhakti Movement](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Medieval_history/01-sufi-bhakti-movement/01-bhakti-movement.md) | [Bhakti Movement](https://compass.rauias.com/medieval-history/bhakti-movement/) |
+| 2 | [Bhakti Acharya](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Medieval_history/01-sufi-bhakti-movement/02-bhakti-acharya.md) | [Bhakti Acharya](https://compass.rauias.com/medieval-history/bhakti-acharya/) |
+| 3 | [Bhakti Movement in the North India](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Medieval_history/01-sufi-bhakti-movement/03-bhakti-movement-in-the-north-india.md) | [Bhakti Movement in the North India](https://compass.rauias.com/medieval-history/bhakti-movement-north-india/) |
+| 4 | [Basava & Lingayat](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Medieval_history/01-sufi-bhakti-movement/04-basava-lingayat.md) | [Basava & Lingayat](https://compass.rauias.com/medieval-history/basava-lingayat/) |
+| 5 | [Bhakti Movement in Maharashtra](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Medieval_history/01-sufi-bhakti-movement/05-bhakti-movement-in-maharashtra.md) | [Bhakti Movement in Maharashtra](https://compass.rauias.com/medieval-history/bhakti-movement-maharashtra/) |
+| 6 | [Sankaradeva (1449-1568 AD)](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Medieval_history/01-sufi-bhakti-movement/06-sankaradeva-1449-1568-ad.md) | [Sankaradeva (1449-1568 AD)](https://compass.rauias.com/medieval-history/sankaradeva-1449-1568-ad/) |
+| 7 | [Meykandar](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Medieval_history/01-sufi-bhakti-movement/07-meykandar.md) | [Meykandar](https://compass.rauias.com/medieval-history/meykandar/) |
+| 8 | [Female Bhakti Saints](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Medieval_history/01-sufi-bhakti-movement/08-female-bhakti-saints.md) | [Female Bhakti Saints](https://compass.rauias.com/medieval-history/female-bhakti-saints/) |
+| 9 | [Sufism](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Medieval_history/01-sufi-bhakti-movement/09-sufism.md) | [Sufism](https://compass.rauias.com/medieval-history/sufism/) |
+| 10 | [Major Sufi Orders in India](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Medieval_history/01-sufi-bhakti-movement/10-major-sufi-orders-in-india.md) | [Major Sufi Orders in India](https://compass.rauias.com/medieval-history/major-sufi-orders-india/) |
+| 11 | [Sufi Literature](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Medieval_history/01-sufi-bhakti-movement/11-sufi-literature.md) | [Sufi Literature](https://compass.rauias.com/medieval-history/sufi-literature/) |
+| 12 | [Personalities Associated With Sufism](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Medieval_history/01-sufi-bhakti-movement/12-personalities-associated-with-sufism.md) | [Personalities Associated With Sufism](https://compass.rauias.com/medieval-history/personalities-associated-sufism/) |
+| 13 | [Socio-Cultural Contributions of Bhakti & Sufi Movements](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Medieval_history/01-sufi-bhakti-movement/13-socio-cultural-contributions-of-bhakti-sufi-movements.md) | [Socio-Cultural Contributions of Bhakti & Sufi Movements](https://compass.rauias.com/medieval-history/socio-cultural-contributions-bhakti-sufi-movements/) |

@@ -1,0 +1,16 @@
+# Gupta Period - Notes Index
+
+| # | Sub-Topic Note | Source URL |
+| :--- | :--- | :--- |
+| 1 | [Samudragupta](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ancient_history/06-Gupta-Period/01-samudragupta.md) | [Samudragupta](https://compass.rauias.com/ancient-history/samudragupta/) |
+| 2 | [Chandragupta-II](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ancient_history/06-Gupta-Period/02-chandragupta-ii.md) | [Chandragupta-II](https://compass.rauias.com/ancient-history/chandragupta-ii/) |
+| 3 | [Rulers of Gupta Period](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ancient_history/06-Gupta-Period/03-rulers-of-gupta-period.md) | [Rulers of Gupta Period](https://compass.rauias.com/ancient-history/rulers-gupta-period/) |
+| 4 | [Gupta Economy](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ancient_history/06-Gupta-Period/04-gupta-economy.md) | [Gupta Economy](https://compass.rauias.com/ancient-history/gupta-economy/) |
+| 5 | [Gupta's Art & Culture](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ancient_history/06-Gupta-Period/05-gupta-s-art-culture.md) | [Gupta's Art & Culture](https://compass.rauias.com/ancient-history/guptas-art-culture/) |
+| 6 | [Socio-Religion of Gupta Period](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ancient_history/06-Gupta-Period/06-socio-religion-of-gupta-period.md) | [Socio-Religion of Gupta Period](https://compass.rauias.com/ancient-history/socio-religion-gupta-period/) |
+| 7 | [Gupta Administration](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ancient_history/06-Gupta-Period/07-gupta-administration.md) | [Gupta Administration](https://compass.rauias.com/ancient-history/gupta-administration/) |
+| 8 | [Chinese Travellers During Gupta Period](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ancient_history/06-Gupta-Period/08-chinese-travellers-during-gupta-period.md) | [Chinese Travellers During Gupta Period](https://compass.rauias.com/ancient-history/chinese-travellers-during-gupta-period/) |
+| 9 | [Golden Age: Reality or Myth](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ancient_history/06-Gupta-Period/09-golden-age-reality-or-myth.md) | [Golden Age: Reality or Myth](https://compass.rauias.com/ancient-history/golden-age-reality-myth/) |
+| 10 | [Science & Technology During Gupta Period](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ancient_history/06-Gupta-Period/10-science-technology-during-gupta-period.md) | [Science & Technology During Gupta Period](https://compass.rauias.com/ancient-history/science-technology-during-gupta-period/) |
+| 11 | [Literature of Gupta Period](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ancient_history/06-Gupta-Period/11-literature-of-gupta-period.md) | [Literature of Gupta Period](https://compass.rauias.com/ancient-history/literature-gupta-period/) |
+| 12 | [Historical Sources of Gupta Dynasty](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ancient_history/06-Gupta-Period/12-historical-sources-of-gupta-dynasty.md) | [Historical Sources of Gupta Dynasty](https://compass.rauias.com/ancient-history/historical-sources-gupta-dynasty/) |

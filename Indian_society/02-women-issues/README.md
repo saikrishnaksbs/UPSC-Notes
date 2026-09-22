@@ -1,0 +1,14 @@
+# Women Issues - Notes Index
+
+| # | Sub-Topic Note | Source URL |
+| :--- | :--- | :--- |
+| 1 | [Status of women in India](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/02-women-issues/01-status-of-women-in-india.md) | [Status of women in India](https://compass.rauias.com/indian-society/status-women-india/) |
+| 2 | [Women’s issues and responses](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/02-women-issues/02-women-s-issues-and-responses.md) | [Women’s issues and responses](https://compass.rauias.com/indian-society/womens-issues-and-responses/) |
+| 3 | [Constitutional and legal provisions for women](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/02-women-issues/03-constitutional-and-legal-provisions-for-women.md) | [Constitutional and legal provisions for women](https://compass.rauias.com/indian-society/constitutional-legal-provisions-regarding-women/) |
+| 4 | [Unpaid care work](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/02-women-issues/04-unpaid-care-work.md) | [Unpaid care work](https://compass.rauias.com/indian-society/unpaid-care-work/) |
+| 5 | [Female labour force participation](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/02-women-issues/05-female-labour-force-participation.md) | [Female labour force participation](https://compass.rauias.com/indian-society/female-labour-force-participation/) |
+| 6 | [Feminization of informal work](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/02-women-issues/06-feminization-of-informal-work.md) | [Feminization of informal work](https://compass.rauias.com/indian-society/feminization-informal-labour/) |
+| 7 | [Political Empowerment of Lower-Caste Women](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/02-women-issues/07-political-empowerment-of-lower-caste-women.md) | [Political Empowerment of Lower-Caste Women](https://compass.rauias.com/indian-society/political-empowerment-lower-caste-women/) |
+| 8 | [Women’s health](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/02-women-issues/08-women-s-health.md) | [Women’s health](https://compass.rauias.com/indian-society/womens-health/) |
+| 9 | [Social issues associated with women](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/02-women-issues/09-social-issues-associated-with-women.md) | [Social issues associated with women](https://compass.rauias.com/indian-society/social-issues-associated-women/) |
+| 10 | [Crimes against women](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/02-women-issues/10-crimes-against-women.md) | [Crimes against women](https://compass.rauias.com/indian-society/crimes-against-women/) |

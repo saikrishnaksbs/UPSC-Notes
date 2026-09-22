@@ -1,0 +1,9 @@
+# Municipalities - Notes Index
+
+| # | Sub-Topic Note | Source URL |
+| :--- | :--- | :--- |
+| 1 | [74th Constitutional Amendment Act,1992](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Polity/24-municipalities/01-74th-constitutional-amendment-act-1992.md) | [74th Constitutional Amendment Act,1992](https://compass.rauias.com/polity/74th-constitutional-amendment-act-1992/) |
+| 2 | [Urban Local Bodies Other Than Municipalities](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Polity/24-municipalities/02-urban-local-bodies-other-than-municipalities.md) | [Urban Local Bodies Other Than Municipalities](https://compass.rauias.com/polity/urban-local-bodies-other-than-municipalities/) |
+| 3 | [Critical Analysis of Urban Local Bodies](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Polity/24-municipalities/03-critical-analysis-of-urban-local-bodies.md) | [Critical Analysis of Urban Local Bodies](https://compass.rauias.com/polity/critical-analysis-urban-local-bodies/) |
+| 4 | [Suggested Reforms of Urban Local Bodies](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Polity/24-municipalities/04-suggested-reforms-of-urban-local-bodies.md) | [Suggested Reforms of Urban Local Bodies](https://compass.rauias.com/polity/suggested-reforms-urban-local-bodies/) |
+| 5 | [Case Study of Municipal Corporation of Delhi](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Polity/24-municipalities/05-case-study-of-municipal-corporation-of-delhi.md) | [Case Study of Municipal Corporation of Delhi](https://compass.rauias.com/polity/case-study-municipal-corporation-delhi/) |

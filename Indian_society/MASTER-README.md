@@ -1,0 +1,66 @@
+# Indian society: Master Study Notes Index
+
+> **Source**: [https://compass.rauias.com/indian-society/](https://compass.rauias.com/indian-society/)
+
+---
+## 📚 Modules Overview
+
+### 01. [Salient Features Of Indian Society](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/01-salient-features-of-indian-society/README.md)
+  - [Salient features of Indian society](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/01-salient-features-of-indian-society/01-salient-features-of-indian-society.md)
+  - [Family: characteristics & types](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/01-salient-features-of-indian-society/02-family-characteristics-types.md)
+  - [Marriage](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/01-salient-features-of-indian-society/03-marriage.md)
+  - [Indian joint family](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/01-salient-features-of-indian-society/04-indian-joint-family.md)
+  - [Structural and functional changes in the Indian family system](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/01-salient-features-of-indian-society/05-structural-and-functional-changes-in-the-indian-family-system.md)
+  - [Traditional values](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/01-salient-features-of-indian-society/06-traditional-values.md)
+  - [The Caste system](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/01-salient-features-of-indian-society/07-the-caste-system.md)
+  - [The emergence of the middle class](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/01-salient-features-of-indian-society/08-the-emergence-of-the-middle-class.md)
+  - [Diversity in Indian society](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/01-salient-features-of-indian-society/09-diversity-in-indian-society.md)
+
+### 02. [Women Issues](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/02-women-issues/README.md)
+  - [Status of women in India](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/02-women-issues/01-status-of-women-in-india.md)
+  - [Women’s issues and responses](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/02-women-issues/02-women-s-issues-and-responses.md)
+  - [Constitutional and legal provisions for women](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/02-women-issues/03-constitutional-and-legal-provisions-for-women.md)
+  - [Unpaid care work](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/02-women-issues/04-unpaid-care-work.md)
+  - [Female labour force participation](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/02-women-issues/05-female-labour-force-participation.md)
+  - [Feminization of informal work](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/02-women-issues/06-feminization-of-informal-work.md)
+  - [Political Empowerment of Lower-Caste Women](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/02-women-issues/07-political-empowerment-of-lower-caste-women.md)
+  - [Women’s health](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/02-women-issues/08-women-s-health.md)
+  - [Social issues associated with women](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/02-women-issues/09-social-issues-associated-with-women.md)
+  - [Crimes against women](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/02-women-issues/10-crimes-against-women.md)
+
+### 03. [Population Issues](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/03-population-issues/README.md)
+  - [Population and census](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/03-population-issues/01-population-and-census.md)
+  - [Theories of demographic transition](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/03-population-issues/02-theories-of-demographic-transition.md)
+  - [Population composition](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/03-population-issues/03-population-composition.md)
+  - [Demographic dividend](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/03-population-issues/04-demographic-dividend.md)
+  - [Population pyramid](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/03-population-issues/05-population-pyramid.md)
+  - [Factors affecting population growth](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/03-population-issues/06-factors-affecting-population-growth.md)
+  - [Problem of Over-Population](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/03-population-issues/07-problem-of-over-population.md)
+  - [Imbalanced Sex Ratio in India](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/03-population-issues/08-imbalanced-sex-ratio-in-india.md)
+  - [Population policy in India](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/03-population-issues/09-population-policy-in-india.md)
+  - [Appraisal of National Population Policy 2000](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/03-population-issues/10-appraisal-of-national-population-policy-2000.md)
+  - [Delay in conducting a census](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/03-population-issues/11-delay-in-conducting-a-census.md)
+  - [Caste-based census](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/03-population-issues/12-caste-based-census.md)
+  - [Two-child policy](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/03-population-issues/13-two-child-policy.md)
+
+### 04. [The Urbanisation](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/04-the-urbanisation/README.md)
+  - [Urbanization and associated phenomenon](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/04-the-urbanisation/01-urbanization-and-associated-phenomenon.md)
+  - [Social Effects of Urbanization](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/04-the-urbanisation/02-social-effects-of-urbanization.md)
+  - [Emerging challenges due to Unsustainable Urbanization](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/04-the-urbanisation/03-emerging-challenges-due-to-unsustainable-urbanization.md)
+  - [Urban housing crisis](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/04-the-urbanisation/04-urban-housing-crisis.md)
+  - [Urban poverty](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/04-the-urbanisation/05-urban-poverty.md)
+  - [Slums](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/04-the-urbanisation/06-slums.md)
+  - [Remedies for Urbanization](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/04-the-urbanisation/07-remedies-for-urbanization.md)
+
+### 05. [Migration](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/05-migration/README.md)
+  - [What is migration?](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/05-migration/01-what-is-migration.md)
+  - [Migration trends in India](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/05-migration/02-migration-trends-in-india.md)
+  - [Migration: causes and consequences](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/05-migration/03-migration-causes-and-consequences.md)
+
+### 06. [Globalisation](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/06-globalisation/README.md)
+  - [Globalisation](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/06-globalisation/01-globalisation.md)
+
+### 07. [Communalism, Regionalism And Secularism](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/07-communalism-regionalism-and-secularism/README.md)
+  - [Communalism](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/07-communalism-regionalism-and-secularism/01-communalism.md)
+  - [Regionalism](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/07-communalism-regionalism-and-secularism/02-regionalism.md)
+  - [Secularism](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/07-communalism-regionalism-and-secularism/03-secularism.md)

@@ -1,0 +1,13 @@
+# Climate Change - Notes Index
+
+| # | Sub-Topic Note | Source URL |
+| :--- | :--- | :--- |
+| 1 | [Impacts of Climate Change](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Environment_and_biodiversity/05-climate-change/01-impacts-of-climate-change.md) | [Impacts of Climate Change](https://compass.rauias.com/environment-biodiversity/impacts-climate-change/) |
+| 2 | [Green House Effect](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Environment_and_biodiversity/05-climate-change/02-green-house-effect.md) | [Green House Effect](https://compass.rauias.com/environment-biodiversity/green-house-effect/) |
+| 3 | [Concepts of climate change](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Environment_and_biodiversity/05-climate-change/03-concepts-of-climate-change.md) | [Concepts of climate change](https://compass.rauias.com/environment-biodiversity/concepts-of-climate-change/) |
+| 4 | [Global Warming & it's causes](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Environment_and_biodiversity/05-climate-change/04-global-warming-it-s-causes.md) | [Global Warming & it's causes](https://compass.rauias.com/global-warming-its-causes/) |
+| 5 | [Global Dimming](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Environment_and_biodiversity/05-climate-change/05-global-dimming.md) | [Global Dimming](https://compass.rauias.com/environment-biodiversity/global-dimming/) |
+| 6 | [Carbon Capture & Storage](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Environment_and_biodiversity/05-climate-change/06-carbon-capture-storage.md) | [Carbon Capture & Storage](https://compass.rauias.com/environment-biodiversity/carbon-capture-storage/) |
+| 7 | [India and Climate Change](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Environment_and_biodiversity/05-climate-change/07-india-and-climate-change.md) | [India and Climate Change](https://compass.rauias.com/environment-biodiversity/india-climate-change/) |
+| 8 | [India's efforts for combating Climate Change](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Environment_and_biodiversity/05-climate-change/08-india-s-efforts-for-combating-climate-change.md) | [India's efforts for combating Climate Change](https://compass.rauias.com/environment-biodiversity/indias-efforts-combating-climate-change/) |
+| 9 | [Climate-smart agriculture](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Environment_and_biodiversity/05-climate-change/09-climate-smart-agriculture.md) | [Climate-smart agriculture](https://compass.rauias.com/environment-biodiversity/climate-smart-agriculture/) |

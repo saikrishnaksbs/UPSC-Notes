@@ -1,0 +1,10 @@
+# Industrial Revolution - Notes Index
+
+| # | Sub-Topic Note | Source URL |
+| :--- | :--- | :--- |
+| 1 | [Pre-requisite to industrial revolution](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/World_history/02-industrial-revolution/01-pre-requisite-to-industrial-revolution.md) | [Pre-requisite to industrial revolution](https://compass.rauias.com/world-history/pre-requisite-to-industrial-revolution/) |
+| 2 | [Why Industrial Revolution began in England?](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/World_history/02-industrial-revolution/02-why-industrial-revolution-began-in-england.md) | [Why Industrial Revolution began in England?](https://compass.rauias.com/world-history/why-industrial-revolution-began-in-england/) |
+| 3 | [Industrial revolution and impact on society](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/World_history/02-industrial-revolution/03-industrial-revolution-and-impact-on-society.md) | [Industrial revolution and impact on society](https://compass.rauias.com/world-history/industrial-revolution-and-impact-on-society/) |
+| 4 | [Industrial Revolution and impact on economy](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/World_history/02-industrial-revolution/04-industrial-revolution-and-impact-on-economy.md) | [Industrial Revolution and impact on economy](https://compass.rauias.com/world-history/industrial-revolution-impact-economy/) |
+| 5 | [Industrial Revolution in America (USA)](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/World_history/02-industrial-revolution/05-industrial-revolution-in-america-usa.md) | [Industrial Revolution in America (USA)](https://compass.rauias.com/world-history/industrial-revolution-in-america-usa/) |
+| 6 | [Industrial Revolution in Russia](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/World_history/02-industrial-revolution/06-industrial-revolution-in-russia.md) | [Industrial Revolution in Russia](https://compass.rauias.com/world-history/industrial-revolution-in-russia/) |

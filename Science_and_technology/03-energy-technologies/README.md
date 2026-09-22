@@ -1,0 +1,17 @@
+# Energy Technologies - Notes Index
+
+| # | Sub-Topic Note | Source URL |
+| :--- | :--- | :--- |
+| 1 | [Introduction to Energy](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Science_and_technology/03-energy-technologies/01-introduction-to-energy.md) | [Introduction to Energy](https://compass.rauias.com/science-technology/introduction-energy/) |
+| 2 | [Fossils as Energy Stores](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Science_and_technology/03-energy-technologies/02-fossils-as-energy-stores.md) | [Fossils as Energy Stores](https://compass.rauias.com/science-technology/fossils-energy-stores/) |
+| 3 | [Coal burning and CCUS](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Science_and_technology/03-energy-technologies/03-coal-burning-and-ccus.md) | [Coal burning and CCUS](https://compass.rauias.com/science-technology/coal-burning-ccus/) |
+| 4 | [Energy in transportation](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Science_and_technology/03-energy-technologies/04-energy-in-transportation.md) | [Energy in transportation](https://compass.rauias.com/science-technology/energy-in-transportation/) |
+| 5 | [India's strategy to emission control](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Science_and_technology/03-energy-technologies/05-india-s-strategy-to-emission-control.md) | [India's strategy to emission control](https://compass.rauias.com/science-technology/indias-strategy-emission-control/) |
+| 6 | [Alternative fuels in transportation](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Science_and_technology/03-energy-technologies/06-alternative-fuels-in-transportation.md) | [Alternative fuels in transportation](https://compass.rauias.com/science-technology/alternative-fuels-transportation/) |
+| 7 | [Hydrogen](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Science_and_technology/03-energy-technologies/07-hydrogen.md) | [Hydrogen](https://compass.rauias.com/science-technology/hydrogen/) |
+| 8 | [Fuel Cells](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Science_and_technology/03-energy-technologies/08-fuel-cells.md) | [Fuel Cells](https://compass.rauias.com/science-technology/fuel-cells/) |
+| 9 | [Li-ion Battery](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Science_and_technology/03-energy-technologies/09-li-ion-battery.md) | [Li-ion Battery](https://compass.rauias.com/science-technology/lithium-ion-battery/) |
+| 10 | [Biofuels](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Science_and_technology/03-energy-technologies/10-biofuels.md) | [Biofuels](https://compass.rauias.com/science-technology/biofuels/) |
+| 11 | [Solar Energy](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Science_and_technology/03-energy-technologies/11-solar-energy.md) | [Solar Energy](https://compass.rauias.com/science-technology/solar-energy/) |
+| 12 | [Solar PV cells](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Science_and_technology/03-energy-technologies/12-solar-pv-cells.md) | [Solar PV cells](https://compass.rauias.com/science-technology/solar-pv-cells/) |
+| 13 | [Energy Storage](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Science_and_technology/03-energy-technologies/13-energy-storage.md) | [Energy Storage](https://compass.rauias.com/science-technology/energy-storage/) |

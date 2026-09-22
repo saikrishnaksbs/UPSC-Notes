@@ -1,0 +1,10 @@
+# Miscellaneous - Notes Index
+
+| # | Sub-Topic Note | Source URL |
+| :--- | :--- | :--- |
+| 1 | [Changes in Caste System in Medieval Times](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Medieval_history/05-miscellaneous/01-changes-in-caste-system-in-medieval-times.md) | [Changes in Caste System in Medieval Times](https://compass.rauias.com/medieval-history/changes-caste-system-medieval-times/) |
+| 2 | [Tribals in Medieval India](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Medieval_history/05-miscellaneous/02-tribals-in-medieval-india.md) | [Tribals in Medieval India](https://compass.rauias.com/medieval-history/tribals-medieval-india/) |
+| 3 | [Education & Scientific Developments in Medieval India](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Medieval_history/05-miscellaneous/03-education-scientific-developments-in-medieval-india.md) | [Education & Scientific Developments in Medieval India](https://compass.rauias.com/medieval-history/education-scientific-developments-medieval-india/) |
+| 4 | [Foreign Travellers During Medieval India](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Medieval_history/05-miscellaneous/04-foreign-travellers-during-medieval-india.md) | [Foreign Travellers During Medieval India](https://compass.rauias.com/medieval-history/foreign-travellers-during-medieval-india/) |
+| 5 | [Medieval Terms](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Medieval_history/05-miscellaneous/05-medieval-terms.md) | [Medieval Terms](https://compass.rauias.com/medieval-history/medieval-terms/) |
+| 6 | [Important Works During Medieval Times](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Medieval_history/05-miscellaneous/06-important-works-during-medieval-times.md) | [Important Works During Medieval Times](https://compass.rauias.com/medieval-history/medieval-terms/important-works-during-medieval-times/) |

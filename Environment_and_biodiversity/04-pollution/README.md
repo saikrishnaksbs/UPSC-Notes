@@ -1,0 +1,19 @@
+# Pollution - Notes Index
+
+| # | Sub-Topic Note | Source URL |
+| :--- | :--- | :--- |
+| 1 | [What is Pollution](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Environment_and_biodiversity/04-pollution/01-what-is-pollution.md) | [What is Pollution](https://compass.rauias.com/environment-biodiversity/pollution/) |
+| 2 | [Ozone Layer Depletion](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Environment_and_biodiversity/04-pollution/02-ozone-layer-depletion.md) | [Ozone Layer Depletion](https://compass.rauias.com/ozone-layer-depletion/) |
+| 3 | [Impacts of Air Pollution](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Environment_and_biodiversity/04-pollution/03-impacts-of-air-pollution.md) | [Impacts of Air Pollution](https://compass.rauias.com/environment-biodiversity/impacts-air-pollution/) |
+| 4 | [Water Pollution ](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Environment_and_biodiversity/04-pollution/04-water-pollution.md) | [Water Pollution ](https://compass.rauias.com/environment-biodiversity/water-pollution/) |
+| 5 | [E-Waste](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Environment_and_biodiversity/04-pollution/05-e-waste.md) | [E-Waste](https://compass.rauias.com/environment-biodiversity/e-waste/) |
+| 6 | [Biomedical Waste ](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Environment_and_biodiversity/04-pollution/06-biomedical-waste.md) | [Biomedical Waste ](https://compass.rauias.com/environment-biodiversity/biomedical-waste/) |
+| 7 | [Noise Pollution](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Environment_and_biodiversity/04-pollution/07-noise-pollution.md) | [Noise Pollution](https://compass.rauias.com/environment-biodiversity/noise-pollution/) |
+| 8 | [Solid Waste Pollution](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Environment_and_biodiversity/04-pollution/08-solid-waste-pollution.md) | [Solid Waste Pollution](https://compass.rauias.com/environment-biodiversity/solid-waste-pollution/) |
+| 9 | [Plastic Waste Pollution](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Environment_and_biodiversity/04-pollution/09-plastic-waste-pollution.md) | [Plastic Waste Pollution](https://compass.rauias.com/environment-biodiversity/plastic-waste-pollution/) |
+| 10 | [Acidification](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Environment_and_biodiversity/04-pollution/10-acidification.md) | [Acidification](https://compass.rauias.com/environment-biodiversity/acidification/) |
+| 11 | [Marine Pollution](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Environment_and_biodiversity/04-pollution/11-marine-pollution.md) | [Marine Pollution](https://compass.rauias.com/environment-biodiversity/marine-pollution/) |
+| 12 | [Land Degradation](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Environment_and_biodiversity/04-pollution/12-land-degradation.md) | [Land Degradation](https://compass.rauias.com/environment-biodiversity/land-degradation/) |
+| 13 | [Environment Protection Act, 1986](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Environment_and_biodiversity/04-pollution/13-environment-protection-act-1986.md) | [Environment Protection Act, 1986](https://compass.rauias.com/environment-biodiversity/environment-protection-act-1986/) |
+| 14 | [Public Liability Insurance Act](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Environment_and_biodiversity/04-pollution/14-public-liability-insurance-act.md) | [Public Liability Insurance Act](https://compass.rauias.com/environment-biodiversity/public-liability-insurance-act/) |
+| 15 | [The National Green Tribunal Act, 2010](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Environment_and_biodiversity/04-pollution/15-the-national-green-tribunal-act-2010.md) | [The National Green Tribunal Act, 2010](https://compass.rauias.com/environment-biodiversity/the-national-green-tribunal-act-2010/) |

@@ -1,0 +1,11 @@
+# Mauryan and Post Mauryan Period - Notes Index
+
+| # | Sub-Topic Note | Source URL |
+| :--- | :--- | :--- |
+| 1 | [Decline of Mauryan Empire](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ancient_history/04-Mauryan-and-Post-Mauryan-Period/01-decline-of-mauryan-empire.md) | [Decline of Mauryan Empire](https://compass.rauias.com/ancient-history/decline-mauryan-empire/) |
+| 2 | [Arts of Mauryan Period](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ancient_history/04-Mauryan-and-Post-Mauryan-Period/02-arts-of-mauryan-period.md) | [Arts of Mauryan Period](https://compass.rauias.com/ancient-history/arts-mauryan-period/) |
+| 3 | [Economy of Mauryan Period](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ancient_history/04-Mauryan-and-Post-Mauryan-Period/03-economy-of-mauryan-period.md) | [Economy of Mauryan Period](https://compass.rauias.com/ancient-history/economy-mauryan-period/) |
+| 4 | [Society of Mauryan Empire](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ancient_history/04-Mauryan-and-Post-Mauryan-Period/04-society-of-mauryan-empire.md) | [Society of Mauryan Empire](https://compass.rauias.com/ancient-history/society-mauryan-empire/) |
+| 5 | [Indo-Greeks: The Foreign Successors of Mauryas](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ancient_history/04-Mauryan-and-Post-Mauryan-Period/05-indo-greeks-the-foreign-successors-of-mauryas.md) | [Indo-Greeks: The Foreign Successors of Mauryas](https://compass.rauias.com/ancient-history/indo-greeks-foreign-successors-mauryas/) |
+| 6 | [Post-Mauryan Empire](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ancient_history/04-Mauryan-and-Post-Mauryan-Period/06-post-mauryan-empire.md) | [Post-Mauryan Empire](https://compass.rauias.com/ancient-history/post-mauryan-empire/) |
+| 7 | [Administration of Mauryan Period](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Ancient_history/04-Mauryan-and-Post-Mauryan-Period/07-administration-of-mauryan-period.md) | [Administration of Mauryan Period](https://compass.rauias.com/ancient-history/administration-mauryan-period/) |

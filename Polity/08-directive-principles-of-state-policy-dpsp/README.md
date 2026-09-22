@@ -1,0 +1,10 @@
+# Directive Principles of State Policy (DPSP) - Notes Index
+
+| # | Sub-Topic Note | Source URL |
+| :--- | :--- | :--- |
+| 1 | [Directive Principles of State Policy](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Polity/08-directive-principles-of-state-policy-dpsp/01-directive-principles-of-state-policy.md) | [Directive Principles of State Policy](https://compass.rauias.com/polity/directive-principles-of-state-policy/) |
+| 2 | [Classification of DPSP](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Polity/08-directive-principles-of-state-policy-dpsp/02-classification-of-dpsp.md) | [Classification of DPSP](https://compass.rauias.com/polity/classification-dpsp/) |
+| 3 | [Amendments in DPSP](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Polity/08-directive-principles-of-state-policy-dpsp/03-amendments-in-dpsp.md) | [Amendments in DPSP](https://compass.rauias.com/polity/amendments-dpsp/) |
+| 4 | [Conflicts Between Fundamental Rights & DPSP: Associated Cases](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Polity/08-directive-principles-of-state-policy-dpsp/04-conflicts-between-fundamental-rights-dpsp-associated-cases.md) | [Conflicts Between Fundamental Rights & DPSP: Associated Cases](https://compass.rauias.com/polity/conflicts-fundamental-rights-dpsp-cases/) |
+| 5 | [Implementation of DPSP: Associated Acts & Amendments](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Polity/08-directive-principles-of-state-policy-dpsp/05-implementation-of-dpsp-associated-acts-amendments.md) | [Implementation of DPSP: Associated Acts & Amendments](https://compass.rauias.com/polity/implementation-dpsp-acts-amendments/) |
+| 6 | [Criticism of DPSP](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Polity/08-directive-principles-of-state-policy-dpsp/06-criticism-of-dpsp.md) | [Criticism of DPSP](https://compass.rauias.com/polity/criticism-of-dpsp/) |

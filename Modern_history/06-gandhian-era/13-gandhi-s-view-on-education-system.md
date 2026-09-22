@@ -1,0 +1,17 @@
+# Gandhi’s View on Education System
+
+> **Source**: [Gandhi’s View on Education System](https://compass.rauias.com/modern-history/gandhis-view-education-system/)
+
+---
+
+- In Gandhi’s opinion, the education system instituted by the British in India functioned as a major instrument for consoli­dating their hold over the country. A direct consequence of this was the strengthening and widening of the fissures in Indian society. **He believed that the ancient system of education, though not very efficient, worked to provide the rudiments of learning to most people.**
+
+- **Rural-urban divide:With the coming of the British, administrative concern shifted to cities and rural areas were left to fend for themselves. The result of this was a gross imbalance in the education structure and village institutions were either closed down or lagged miserably behind their city counterparts. **Education became almost non-existent in the villages,while the educated class of the cities drifted away with no perception of the problems of villagers. Education, thus, merely widened rural-urban gulf and offered no value for cohesion and advancement of society.
+
+- **Issues with British form of education**: In Gandhi’s view, a significant social dimension of British system of education was that it tended to subdue the mental faculties of those receiving it. They lost their imaginative and creative abilities in an attempt to master the intricacies of a foreign language and foreign culture. Gandhi uses the word, **“denationalized**”, for them and says that they were deluded into **thinking that everything indigenous was bad and all things British were superior to their own. **Of much greater concern and disadvantage for the cohesiveness and harmony of Indian society was the gulf which had been created between “us and the masses”.
+
+- **Impact on youth**: Yet another social consequence of the system was the **creation of a class of frustrated youthwho were in the position of having fallen between two stools. Their education equipped them for posts in the **administrative system**, but there were not enough of these. On the other hand, says Gandhi, they were alienated from the traditional mainstream. The social structure had not been able to absorb this element and place them in the natural position of providing enlightened leadership. A potent element of change was seen to have resulted in alienation and frustration.
+
+- **Impact on society:Another adverse outcome of the education system was the **creation of a further imbalance in society – this was between spouses and between the two sexes of the upper and middle classes.While the girls and wives of this class were left uneducated, the men often received western education, which made them feel closer to the ruling classes. Such a situation could only aggravate the pressures in a male-dominated society.
+
+- Some young men, he was aware, solved the problem by cruelly turning their wives out of their houses, while others used them as sexual objects without sharing their intellectual life with them. However, the prospect was not altogether bleak and there was a growing section with a quickened conscience; yet, the problem of marital relationships was serious, he wrote. **Education, as it was being imparted to and imbibed by Indians,had created fissures and tensions in the social structure without offering a new value system that was principled and forward-looking.

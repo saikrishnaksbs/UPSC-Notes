@@ -1,0 +1,13 @@
+# Salient Features Of Indian Society - Notes Index
+
+| # | Sub-Topic Note | Source URL |
+| :--- | :--- | :--- |
+| 1 | [Salient features of Indian society](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/01-salient-features-of-indian-society/01-salient-features-of-indian-society.md) | [Salient features of Indian society](https://compass.rauias.com/indian-society/salient-features/) |
+| 2 | [Family: characteristics & types](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/01-salient-features-of-indian-society/02-family-characteristics-types.md) | [Family: characteristics & types](https://compass.rauias.com/indian-society/family-characteristics-types/) |
+| 3 | [Marriage](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/01-salient-features-of-indian-society/03-marriage.md) | [Marriage](https://compass.rauias.com/indian-society/marriage/) |
+| 4 | [Indian joint family](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/01-salient-features-of-indian-society/04-indian-joint-family.md) | [Indian joint family](https://compass.rauias.com/indian-society/indian-joint-family/) |
+| 5 | [Structural and functional changes in the Indian family system](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/01-salient-features-of-indian-society/05-structural-and-functional-changes-in-the-indian-family-system.md) | [Structural and functional changes in the Indian family system](https://compass.rauias.com/indian-society/structural-functional-changes-indian-family-system/) |
+| 6 | [Traditional values](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/01-salient-features-of-indian-society/06-traditional-values.md) | [Traditional values](https://compass.rauias.com/indian-society/traditional-values/) |
+| 7 | [The Caste system](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/01-salient-features-of-indian-society/07-the-caste-system.md) | [The Caste system](https://compass.rauias.com/indian-society/the-caste-system/) |
+| 8 | [The emergence of the middle class](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/01-salient-features-of-indian-society/08-the-emergence-of-the-middle-class.md) | [The emergence of the middle class](https://compass.rauias.com/indian-society/emergence-middle-class/) |
+| 9 | [Diversity in Indian society](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Indian_society/01-salient-features-of-indian-society/09-diversity-in-indian-society.md) | [Diversity in Indian society](https://compass.rauias.com/indian-society/diversity-indian-society/) |

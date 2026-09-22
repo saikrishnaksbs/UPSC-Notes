@@ -1,0 +1,15 @@
+# Sultanate Period - Notes Index
+
+| # | Sub-Topic Note | Source URL |
+| :--- | :--- | :--- |
+| 1 | [Delhi Sultanate (1206-1526 AD)](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Medieval_history/02-sultanate-period/01-delhi-sultanate-1206-1526-ad.md) | [Delhi Sultanate (1206-1526 AD)](https://compass.rauias.com/medieval-history/delhi-sultanate/) |
+| 2 | [Slave Dynasty](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Medieval_history/02-sultanate-period/02-slave-dynasty.md) | [Slave Dynasty](https://compass.rauias.com/medieval-history/slave-dynasty/) |
+| 3 | [Khilji Dynasty](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Medieval_history/02-sultanate-period/03-khilji-dynasty.md) | [Khilji Dynasty](https://compass.rauias.com/medieval-history/khilji-dynasty/) |
+| 4 | [Tughlaq Dynasty](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Medieval_history/02-sultanate-period/04-tughlaq-dynasty.md) | [Tughlaq Dynasty](https://compass.rauias.com/medieval-history/tughlaq-dynasty/) |
+| 5 | [Lodhi Dynasty](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Medieval_history/02-sultanate-period/05-lodhi-dynasty.md) | [Lodhi Dynasty](https://compass.rauias.com/medieval-history/lodhi-dynasty/) |
+| 6 | [History of Kashmir](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Medieval_history/02-sultanate-period/06-history-of-kashmir.md) | [History of Kashmir](https://compass.rauias.com/medieval-history/history-kashmir/) |
+| 7 | [Society of Delhi Sultanate](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Medieval_history/02-sultanate-period/07-society-of-delhi-sultanate.md) | [Society of Delhi Sultanate](https://compass.rauias.com/medieval-history/society-delhi-sultanate/) |
+| 8 | [Polity During Delhi Sultanate](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Medieval_history/02-sultanate-period/08-polity-during-delhi-sultanate.md) | [Polity During Delhi Sultanate](https://compass.rauias.com/medieval-history/polity-during-sultanate-period/) |
+| 9 | [Economy of Delhi Sultanate](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Medieval_history/02-sultanate-period/09-economy-of-delhi-sultanate.md) | [Economy of Delhi Sultanate](https://compass.rauias.com/medieval-history/economy-delhi-sultanate/) |
+| 10 | [Architecture Under Delhi Sultanate](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Medieval_history/02-sultanate-period/10-architecture-under-delhi-sultanate.md) | [Architecture Under Delhi Sultanate](https://compass.rauias.com/medieval-history/architecture-under-delhi-sultanate/) |
+| 11 | [Literature During Delhi Sultanate](file:///Users/saikrishnakuchimanchi/Downloads/Test/Upsc/Medieval_history/02-sultanate-period/11-literature-during-delhi-sultanate.md) | [Literature During Delhi Sultanate](https://compass.rauias.com/medieval-history/literature-during-delhi-sultanate/) |
