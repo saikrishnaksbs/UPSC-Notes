@@ -1,2 +1,5 @@
 .DS_Store
 *.tmp
+*.pdf
+generate_rs_sharma.py
+*/
