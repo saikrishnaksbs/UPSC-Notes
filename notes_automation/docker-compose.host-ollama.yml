@@ -1,0 +1,11 @@
+# Use the Ollama installed on this computer instead of the bundled container.
+# On a Mac this is much faster: Ollama on the host uses the Apple GPU, Docker cannot.
+#   docker compose -f docker-compose.yml -f docker-compose.host-ollama.yml up -d upsc-notes
+# Pull the models on the host first: ollama pull qwen2.5:1.5b && ollama pull nomic-embed-text
+services:
+  upsc-notes:
+    depends_on: !reset {}
+    environment:
+      - OLLAMA_BASE_URL=http://host.docker.internal:11434
+    extra_hosts:
+      - "host.docker.internal:host-gateway"

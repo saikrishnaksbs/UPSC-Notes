@@ -1,0 +1,23 @@
+# Git & IDE
+.git
+.gitignore
+.claude
+.idea
+.vscode
+.DS_Store
+
+# Python & Virtual environments
+.venv
+venv
+env
+__pycache__
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache
+
+# Data and large files
+.data
+*.pdf
+*.PDF
+*.log

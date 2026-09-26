@@ -1,0 +1,8 @@
+# Give the bundled Ollama an AMD GPU (Linux with ROCm drivers). Used by start.sh when /dev/kfd exists.
+#   docker compose -f docker-compose.yml -f docker-compose.amd.yml up -d
+services:
+  ollama:
+    image: ollama/ollama:rocm
+    devices:
+      - /dev/kfd
+      - /dev/dri

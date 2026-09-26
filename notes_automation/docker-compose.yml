@@ -1,0 +1,64 @@
+# Run everything in Docker:   docker compose up -d        then open http://127.0.0.1:8765
+# Easiest: ./start.sh (Windows: start.ps1) picks GPU or CPU automatically. This file alone runs on the CPU.
+# First start downloads the models (~2.2 GB for qwen2.5:3b + nomic-embed-text) into a volume.
+#
+# Change the model:            UPSC_NOTES_MODEL=qwen2.5:7b docker compose up -d
+# Use Ollama already on the host (faster on a Mac, which has no GPU inside Docker):
+#                              docker compose -f docker-compose.yml -f docker-compose.host-ollama.yml up -d
+# NVIDIA GPU (Linux/Windows):  docker compose -f docker-compose.yml -f docker-compose.gpu.yml up -d
+
+services:
+  ollama:
+    image: ollama/ollama:latest
+    volumes:
+      - ollama-models:/root/.ollama
+    environment:
+      - OLLAMA_KEEP_ALIVE=30m
+    healthcheck:
+      test: ["CMD", "ollama", "list"]
+      interval: 5s
+      timeout: 5s
+      retries: 30
+    restart: unless-stopped
+
+  # One-shot: pulls the chat + embedding models (skipped quickly when already present).
+  ollama-pull:
+    image: ollama/ollama:latest
+    depends_on:
+      ollama:
+        condition: service_healthy
+    environment:
+      - OLLAMA_HOST=ollama:11434
+    # Retries so a network hiccup doesn't block startup.
+    entrypoint:
+      - sh
+      - -c
+      - |
+        for m in "${UPSC_NOTES_MODEL:-qwen2.5:3b}" nomic-embed-text; do
+          n=0; until ollama pull "$$m"; do n=$$((n+1)); [ $$n -ge 5 ] && exit 1; echo "retrying $$m"; sleep 5; done
+        done
+    restart: "no"
+
+  upsc-notes:
+    build: .
+    image: upsc-notes-studio:latest
+    depends_on:
+      ollama-pull:
+        condition: service_completed_successfully
+    ports:
+      - "127.0.0.1:${UPSC_NOTES_PORT:-8765}:8765"
+    volumes:
+      # The notes repository (the parent of this folder). Jobs and backups go to notes_automation/.data.
+      - ..:/workspace
+    environment:
+      - OLLAMA_BASE_URL=http://ollama:11434
+      - UPSC_NOTES_MODEL=${UPSC_NOTES_MODEL:-qwen2.5:3b}
+      # Name used for optional git commits made from the app.
+      - GIT_AUTHOR_NAME=${GIT_AUTHOR_NAME:-UPSC Notes Studio}
+      - GIT_AUTHOR_EMAIL=${GIT_AUTHOR_EMAIL:-upsc-notes@localhost}
+      - GIT_COMMITTER_NAME=${GIT_AUTHOR_NAME:-UPSC Notes Studio}
+      - GIT_COMMITTER_EMAIL=${GIT_AUTHOR_EMAIL:-upsc-notes@localhost}
+    restart: unless-stopped
+
+volumes:
+  ollama-models:

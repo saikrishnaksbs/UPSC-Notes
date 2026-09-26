@@ -1,0 +1,55 @@
+# Copy to config.yaml (same folder) and edit. Every key is optional — defaults are shown.
+# Relative paths are resolved from this file's folder.
+
+llm:
+  provider: ollama              # ollama | openai_compatible (llama.cpp server, LM Studio, vLLM, MLX-LM …)
+  base_url: http://localhost:11434
+  model: qwen2.5:7b             # try qwen2.5:14b for better notes (≈2× slower), qwen3:8b, llama3.1:8b, mistral-nemo
+  num_ctx: 16384                # one fixed context size (Ollama reloads the model if it changes between calls)
+  temperature: 0.2
+  keep_alive: 30m
+  think: null                   # set to false for "thinking" models such as qwen3 to skip their reasoning phase
+  # api_key: local              # only for openai_compatible servers that require a token
+
+embeddings:                     # used to find existing notes similar to a new topic
+  provider: ollama              # ollama | openai_compatible | none (keyword search only)
+  base_url: http://localhost:11434
+  model: nomic-embed-text       # or qwen3-embedding:8b (better, heavier) — change the prefixes to match the model
+  query_prefix: "search_query: "
+  document_prefix: "search_document: "
+
+extraction:
+  engine: docling               # docling (best: layout + table models, ~5 s/page) | pymupdf (fast)
+
+ocr:
+  engine: tesseract             # tesseract | ollama_vision | none
+  mode: auto                    # auto: OCR image-only pages only in scanned PDFs; always: OCR every image-only page
+  languages: eng                # e.g. eng+hin (install the language pack: brew install tesseract-lang)
+  dpi: 300
+  vision_model: qwen2.5vl:7b    # used when engine is ollama_vision (ollama pull qwen2.5vl:7b)
+
+repo:
+  path: ..                      # the UPSC notes repository (parent of this folder)
+  sources_dir: _sources         # extracted source text lives here, linked from every generated note
+  exclude_dirs: [notes_automation, app, node_modules, venv, .venv]
+  update_readme_index: true     # add a row to the module README.md table
+  update_master_readme: true    # add the note to the subject's MASTER-README.md
+  update_module_compilation: true   # append to the module's *-complete.md
+
+pipeline:
+  skip_irrelevant: true         # skip contents pages, adverts, quizzes
+  auto_approve_threshold: null  # e.g. 0.85 to pre-approve confident proposals without warnings
+  max_segment_chars: 40000
+  min_segment_chars: 150
+  max_generation_source_chars: 26000   # longer sources are condensed chunk-by-chunk first
+  max_existing_note_chars: 20000
+  max_note_words: 900
+  min_note_words: 120
+
+git:
+  branch_prefix: notes/
+  remote: origin
+
+host: 127.0.0.1
+port: 8765
+data_dir: .data                 # jobs, uploads, search cache and backups (git-ignored)
